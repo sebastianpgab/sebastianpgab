@@ -23,24 +23,9 @@ I'm a .NET developer specializing in creating various types of applications, inc
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats
-<div align="center">
-  <a href="https://github.com/sebastianpgab">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianpgab&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/sebastianpgab">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianpgab&layout=compact&theme=radical" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/sebastianpgab">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianpgab&theme=radical" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/sebastianpgab">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sebastianpgab&theme=radical" />
-  </a>
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sebastianpgab&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianpgab&layout=compact&theme=radical)     
+
+
 
 ## 📂 My Repositories
 Here are some of my repositories:
