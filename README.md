@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a .NET developer specializing in creating various types of applications.
 
-- 🔭 I’m currently working on web scraping applications.
+- 🔭 I’m currently working on web scraping applications that compare prices and monitor market changes to increase sales. I also focus on e-commerce solutions.
 - 🌱 I’m currently learning Angular.
 - 📫 How to reach me: sebastianpgab@gmail.com
 
